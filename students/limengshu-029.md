@@ -1,5 +1,5 @@
 ---
-name: 李梦书
+name: Shir-
 github: hishirleybaby
 submissions:
   assignment-1:
@@ -14,4 +14,4 @@ submissions:
     description: 基于 Flask 和 OpenStreetMap 的杭州市徒步路线可视化应用，支持 JWT 认证，展示 17,000+ 条步道数据
 ---
 
-# 李梦书 的作品集
+# Shir- 的作品集
